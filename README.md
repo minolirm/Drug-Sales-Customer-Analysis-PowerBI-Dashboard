@@ -52,12 +52,7 @@ This project presents a **Power BI Customer Analysis Dashboard** that provides a
 ## 📸 Dashboard Preview
 *(Insert visuals of your dashboard for quick reference)*  
 Example:  
-![Dashboard Preview](screenshots/customer_analysis_overview.png)
+![Dashboard Preview]([screenshots/customer_analysis_overview.png](https://github.com/minolirm/Drug-Sales-Customer-Analysis-PowerBI-Dashboard/blob/main/Drug%20Sales%20Customer%20Analysis.png))
 
 ---
 
-## 🌍 Live Dashboard (Optional)
-If published on Power BI Service:  
-👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=YOUR_LINK_HERE)
-
----
