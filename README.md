@@ -50,7 +50,7 @@ This project presents a **Power BI Customer Analysis Dashboard** that provides a
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Preview](https://github.com/minolirm/Drug-Sales-Customer-Analysis-PowerBI-Dashboard/blob/main/Drug%20Sales%20Customer%20Analysis.png)
+![Dashboard Preview]([https://github.com/minolirm/Drug-Sales-Customer-Analysis-PowerBI-Dashboard/blob/main/Drug%20Sales%20Customer%20Analysis.png])
 
 ---
 
