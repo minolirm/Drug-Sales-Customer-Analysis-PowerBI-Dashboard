@@ -1,8 +1,6 @@
 # Drug-Sales-Customer-Analysis-PowerBI-Dashboard
 This Power BI dashboard explores customer demographics and sales distribution to uncover patterns in buying behavior and revenue generation. It highlights key demographic trends, country-level performance, and customer segmentation.
 
-# 👥 Power BI Dashboard – Customer Analysis
-
 ## 📊 Project Overview
 This project presents a **Power BI Customer Analysis Dashboard** that provides a detailed understanding of customer demographics, sales performance, and geographic distribution. The dashboard is designed to help organizations identify key customer segments, assess market performance across regions, and gain data-driven insights into buying behavior.
 
