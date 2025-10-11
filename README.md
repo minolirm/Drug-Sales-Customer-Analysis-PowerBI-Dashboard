@@ -50,8 +50,11 @@ This project presents a **Power BI Customer Analysis Dashboard** that provides a
 ---
 
 ## 📸 Dashboard Preview  
-Open Drug Sales Customer Analysis.png
-View the interactive dashboard - Drug Sales - Customer Analysis.gif
+### 📸 Preview
+![Drug Sales Customer Analysis](Open%20Drug%20Sales%20Customer%20Analysis.png)
+
+### 🧭 View the Interactive Dashboard
+[🎯 View Interactive Dashboard (GIF Preview)](Drug%20Sales%20-%20Customer%20Analysis.gif)
 
 ---
 
