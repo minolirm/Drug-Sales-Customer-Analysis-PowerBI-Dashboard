@@ -6,7 +6,7 @@ This project presents a **Power BI Customer Analysis Dashboard** that provides a
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze customer demographics and their impact on revenue.
 - Measure total customers, average revenue per customer, and buyer type statistics.
 - Visualize revenue distribution by country, gender, and age group.
@@ -14,7 +14,7 @@ This project presents a **Power BI Customer Analysis Dashboard** that provides a
 
 ---
 
-## 🧩 Covered Topics
+## Covered Topics
 
 ### **1. Customer Demographics and Sales Distribution**
 - **Total number of customers** and **average revenue per customer**
@@ -34,7 +34,7 @@ This project presents a **Power BI Customer Analysis Dashboard** that provides a
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 - Understand which demographics drive the highest revenue.
 - Identify high-performing customer groups and potential target markets.
 - Track regional contributions to overall sales.
@@ -42,7 +42,7 @@ This project presents a **Power BI Customer Analysis Dashboard** that provides a
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Power BI Desktop**
 - **Data Source:** (CustomerTable.csv, DrugLookup.csv, FactTable.csv)
 - **DAX Measures:** Used for dynamic calculations (e.g., average revenue per customer, % contribution)
@@ -50,7 +50,8 @@ This project presents a **Power BI Customer Analysis Dashboard** that provides a
 ---
 
 ## 📸 Dashboard Preview  
-Drug Sales Customer Analysis.png
+Open Drug Sales Customer Analysis.png
+View the interactive dashboard - Drug Sales - Customer Analysis.gif
 
 ---
 
